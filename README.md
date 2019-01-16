@@ -1,0 +1,2 @@
+# git-squash
+git-squash
